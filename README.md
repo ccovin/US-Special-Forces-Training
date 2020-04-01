@@ -14,15 +14,10 @@ Initial tests indicated increased budgetary accuracy of at least 50% Year 1 with
 Our Special Forces sponsors were ecstatic and we were poised to formally incorporate a new company. Ironically, our military sponsors could not secure funding to move forward due to the budget sequestration. 
 
 WHAT IS IN THIS REPOSITORY:
-This repository contains a handful of the 50+ designs from our high-fidelity prototype. The full set and interactive prototype are not publicly available.
+Below are a handful of the 60+ designs from our high-fidelity prototype. The full set and interactive prototype are not publicly available.
 
 ![](examples/PersonnelComparison.png)
 
-
-<h2 align="center">
-  <img src="https://github.com/ccovin/US-Special-Forces-Training/edit/master/examples/XOColorsofMoney.png" alt="XOColorsofMoney" width="100%" />
-  <br>
-</h2>
 
 
 

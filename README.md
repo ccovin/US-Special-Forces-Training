@@ -1,7 +1,7 @@
 # US-Special-Forces-Training
 
 BACKGROUND:
-This application design was rooted in a Hacking 4 Defense project run out of Duke University. It was a fantastic experience! Our sponsor was the Special Forces 3rd Group based at Ft. Bragg in Fayetteville, NC. We were asked to look into how to address the regular budget overruns encountered by Special Forces teams during their training cycles. These overruns have become a major problem and challenge to readiness since the Sequestration rules of the U.S. Federal Budget were activated.  
+This application design was rooted in a Hacking 4 Defense project run out of Duke University. It was a fantastic experience! Our sponsor was the Special Forces 3rd Group based at Ft. Bragg in Fayetteville, NC. We were asked to devise solutions to address the regular budget overruns encountered by Special Forces teams during their training cycles. These overruns have become a major problem and challenge to readiness since the Sequestration rules of the U.S. Federal Budget were activated.  
 
 METHODOLOGY:
 Over the course of 130+ research interviews with SF personnel we employed Lean Startup and Design Thinking techniques to design a system to Capture, Synthesize, and Enhance each training cycle. 

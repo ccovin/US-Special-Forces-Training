@@ -18,6 +18,6 @@ This repository contains a handful of the 50+ designs from our high-fidelity pro
 
 
 <h2 align="center">
-  <img src="https://github.com/cobidev/gatsby-simplefolio/blob/master/examples/example.gif" alt="Simplefolio" width="600px" />
+  <img src="https://github.com/ccovin/US-Special-Forces-Training/edit/master/XO - Colors of Money.png" alt="XO Colors of Money" width="100%" />
   <br>
 </h2>

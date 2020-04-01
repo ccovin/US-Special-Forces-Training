@@ -16,6 +16,8 @@ Our Special Forces sponsors were ecstatic and we were poised to formally incorpo
 WHAT IS IN THIS REPOSITORY:
 This repository contains a handful of the 50+ designs from our high-fidelity prototype. The full set and interactive prototype are not publicly available.
 
+![](examples/PersonnelComparison.png)
+
 
 <h2 align="center">
   <img src="https://github.com/ccovin/US-Special-Forces-Training/edit/master/examples/XOColorsofMoney.png" alt="XOColorsofMoney" width="100%" />

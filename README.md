@@ -18,13 +18,13 @@ Below are a handful of the 60+ designs from our high-fidelity prototype. The ful
 
 ![](examples/PersonnelComparison.png)
 
+![](examples/PersonnelDashboard.png)
 
+![](examples/XODashboard.png)
 
+![](examples/XOColorsofMoney.png)
 
-
-
-
-
+![](examples/XOManageAmmunition.png)
 
 
 

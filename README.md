@@ -15,3 +15,9 @@ Our Special Forces sponsors were ecstatic and we were poised to formally incorpo
 
 WHAT IS IN THIS REPOSITORY:
 This repository contains a handful of the 50+ designs from our high-fidelity prototype. The full set and interactive prototype are not publicly available.
+
+
+<h2 align="center">
+  <img src="https://github.com/cobidev/gatsby-simplefolio/blob/master/examples/example.gif" alt="Simplefolio" width="600px" />
+  <br>
+</h2>
